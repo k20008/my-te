@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+header a {
+    border: 3px solid royalblue;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+h1 {
+    text-align:center;
+}
+.products {
+    display: flex;
+    justify-content: center;
+}
